@@ -1,0 +1,29 @@
+1.
+              Def defined functions	                                                               lambda functions
+Easy to interpret	                                                                Interpretation might be tricky
+Can consists of any number of execution statements inside the function definition	The limited operation can be performed using lambda functions
+2.
+The lambda keyword in Python provides a shortcut for declaring small anonymous functions3.
+3.
+Map creates a new array by transforming every element in an array individually.
+ filter creates a new array by removing elements that don't belong. reduce ,
+ on the other hand, takes all of the elements in an array and reduces them into a single value. Just like map and filter , 
+reduce is defined on Array.
+4.
+Function annotations are arbitrary python expressions that are associated with various part of functions.
+ These expressions are evaluated at compile time and have no life in python's runtime environment. 
+Python does not attach any meaning to these annotations.
+5.
+Recursion is a programming technique using function or algorithm that calls itself one or more times until a specified condition is met at 
+which time the rest of each repetition is processed from the last one called to the first.
+6.
+Safe: It can be used without causing harm.
+Secure: It can't be hacked.
+Reliable: It functions as it should, every time.
+Testable: It can be tested at the code level.
+Maintainable: It can be maintained, even as your codebase grows.
+Portable: It works the same in every environment.
+7.
+The name, the number and type of the arguments, the return type, and the body. 
+8.
+A user-defined function is divided into three types such as function declaration, function definition, and function call.
